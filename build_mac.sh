@@ -1,0 +1,1 @@
+clang -O2  -o CryptBypass -framework Foundation CryptBypass.m
